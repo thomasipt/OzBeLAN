@@ -41,19 +41,19 @@ MENU & SUB MENU ...
 1.8 Edit Test Port
 1.8.1 0808
 1.8.2 No/Yes/Save
-2. Run Some Tests
+3. Run Some Tests
 2.1 Ping DHCP Server	
 2.2 Ping Gateway
 2.3 Ping DNS Server
 2.4 Ping Cloud IP
 2.5 Find Out WAN IP
-3. Setup Device
+4. Setup Device
 3.1 Delay Cycles
 3.2 Delay Backlight
 3.3 Backlight Level
 3.4 Delay GO2SLEEP
 3.5 Auto BACK2INFO
-4. Save & Reboot
+5. Save & Reboot
 4.1 Save & Reboot
 4.1.1 No/Yes
 4.2 Save NO Reboot
